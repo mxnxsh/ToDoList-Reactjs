@@ -1,5 +1,12 @@
 # ToDoList-Reactjs
 
 Step 1:
-clone TodoList project 
-git clone https://github.com/gittower/git-crash-course.git other-name
+Clone TodoList project using git clone https://github.com/mxnxsh/ToDoList-Reactjs.git command
+
+Step 2:
+Type npm i or npm install in your command prompt(CMD)
+
+Step 3:
+npm start 
+
+Overview
